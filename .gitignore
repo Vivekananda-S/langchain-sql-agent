@@ -1,3 +1,5 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+.env
+ai-framework-projects-f07a4b5ce88b.json
